@@ -16,7 +16,7 @@ Winter 2026 semester student roll call activity designed to practice open source
 | Carly Mistick | -- | -- |
 | Claire Mollen | -- | -- |
 | Benjamin Radmore | -- | -- |
-| Eleanor Tchida | -- | -- |
+| Eleanor Tchida | ellietchida | [https://github.com/ellietchida/W26-roll-call.git](https://github.com/ellietchida/W26-roll-call.git) |
 | Chloe Tyler | -- | -- |
 
 ## Instructions
